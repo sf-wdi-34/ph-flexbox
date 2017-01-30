@@ -33,3 +33,4 @@ Then use flexbox and CSS3 instead!
 - [Flexbox Froggy](http://flexboxfroggy.com/)
 - [CSS-Tricks guide to flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [MDN's guide](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes)
+- [Compatability](http://caniuse.com/#feat=flexbox)
